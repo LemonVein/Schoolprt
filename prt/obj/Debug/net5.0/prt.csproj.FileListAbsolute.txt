@@ -1,0 +1,15 @@
+/Users/jasonkim/Projects/prt/prt/bin/Debug/net5.0/prt.deps.json
+/Users/jasonkim/Projects/prt/prt/bin/Debug/net5.0/prt.runtimeconfig.json
+/Users/jasonkim/Projects/prt/prt/bin/Debug/net5.0/prt.runtimeconfig.dev.json
+/Users/jasonkim/Projects/prt/prt/bin/Debug/net5.0/prt.dll
+/Users/jasonkim/Projects/prt/prt/bin/Debug/net5.0/ref/prt.dll
+/Users/jasonkim/Projects/prt/prt/bin/Debug/net5.0/prt.pdb
+/Users/jasonkim/Projects/prt/prt/obj/Debug/net5.0/prt.csproj.AssemblyReference.cache
+/Users/jasonkim/Projects/prt/prt/obj/Debug/net5.0/prt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasonkim/Projects/prt/prt/obj/Debug/net5.0/prt.AssemblyInfoInputs.cache
+/Users/jasonkim/Projects/prt/prt/obj/Debug/net5.0/prt.AssemblyInfo.cs
+/Users/jasonkim/Projects/prt/prt/obj/Debug/net5.0/prt.csproj.CoreCompileInputs.cache
+/Users/jasonkim/Projects/prt/prt/obj/Debug/net5.0/prt.dll
+/Users/jasonkim/Projects/prt/prt/obj/Debug/net5.0/ref/prt.dll
+/Users/jasonkim/Projects/prt/prt/obj/Debug/net5.0/prt.pdb
+/Users/jasonkim/Projects/prt/prt/obj/Debug/net5.0/prt.genruntimeconfig.cache
