@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jasonkim/Projects/prt/prt/prt.csproj": {}
+    "/Users/jasonkim/Projects/Schoolprt/prt/prt.csproj": {}
   },
   "projects": {
-    "/Users/jasonkim/Projects/prt/prt/prt.csproj": {
+    "/Users/jasonkim/Projects/Schoolprt/prt/prt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jasonkim/Projects/prt/prt/prt.csproj",
+        "projectUniqueName": "/Users/jasonkim/Projects/Schoolprt/prt/prt.csproj",
         "projectName": "prt",
-        "projectPath": "/Users/jasonkim/Projects/prt/prt/prt.csproj",
+        "projectPath": "/Users/jasonkim/Projects/Schoolprt/prt/prt.csproj",
         "packagesPath": "/Users/jasonkim/.nuget/packages/",
-        "outputPath": "/Users/jasonkim/Projects/prt/prt/obj/",
+        "outputPath": "/Users/jasonkim/Projects/Schoolprt/prt/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jasonkim/.config/NuGet/NuGet.Config"

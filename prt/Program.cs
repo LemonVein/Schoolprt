@@ -11,6 +11,7 @@ namespace prt
             Console.WriteLine("Write");
             Console.WriteLine("Write");
             Console.WriteLine("Write");
+            Console.WriteLine("Commit");
         }
     }
 }
